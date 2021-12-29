@@ -16,3 +16,15 @@ Untuk tahapan pertama yaitu pendataan class yang ada pada datasets dan labeling
 
 Kemudian tahap kedua adalah resizing datasets menjadi ukuran 100x100
 ![resize](https://github.com/ompiko/ML_D-Andre_024-Syafiq_128/blob/main/57.JPG)
+
+
+### Modeling
+Pada tahap ini pembuatan model dibuat model menggunakan 4 layer secara keseluruhan, dimana terdapat 2 layer ekstrasi dan 2 layer
+![resize](https://github.com/ompiko/ML_D-Andre_024-Syafiq_128/blob/main/58.JPG)
+
+Lalu dibawah ini summary dari model diatas
+![resize](https://github.com/ompiko/ML_D-Andre_024-Syafiq_128/blob/main/59.JPG)
+
+### Training dan Plot
+Pada tahap ini adalah epoch model dengan penggunaan data yang telah menjadi perbandingan (8, 1, 1). Dan kekurangan dari model yang kami kerjakan adalah masih terdapat overfitting
+![resize](https://github.com/ompiko/ML_D-Andre_024-Syafiq_128/blob/main/60.JPG)
